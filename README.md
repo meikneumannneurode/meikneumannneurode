@@ -1,4 +1,4 @@
-# Hi there, I'm Meik! 👋
+## Hi there, I'm Meik! 👋
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ I'm a dedicated **Project Manager** and **Full-Stack Software Engineer** with a 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 - **Frameworks & Libraries:** React, Symfony, Laravel, Kirby CMS
 - **DevOps & Tools:** Git, Docker
-- **Other Skills:** Linux System Administration
+- **Other Skills:** System Administration, SEO
 
 ## 💡 What I Do
 
